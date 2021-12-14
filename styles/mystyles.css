@@ -1,0 +1,35 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    color: rgb(247, 231, 203);
+    font-size: large
+}
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    color: rgb(59, 59, 59) ;
+    font-size: xx-large
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgb(59, 59, 59);
+    font-size: small;
+}
+
+.subheading {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: rgb(247, 231, 203);
+    font-size: medium
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: rgb(59, 59, 59);
+    font-size: medium;
+    font-weight: lighter;
+}
